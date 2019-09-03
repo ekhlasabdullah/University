@@ -1,0 +1,238 @@
+body{
+	margin: 0;
+	font-family: rubik,arial,sans-serif;
+}
+header{
+	height: 60px;
+	margin: 10px 50px;
+}
+h2{
+	float: left;
+
+	
+}
+#nav{
+	
+	line-height: 60px;
+	float: right;
+	margin-left: 200px;
+
+
+}
+#one{
+	float: left;
+	margin-left:90px;
+	color: black;
+}
+#one a{
+	color: black;
+}
+#two{
+	float: right;
+	margin: 30px;
+}
+
+a{
+	padding: 10px;
+	text-decoration: none;
+}
+#two a{
+	color: #11cbd7;
+}
+
+#section{
+	width: 100%;
+	
+	clear: both;
+	background: url(images/image1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: #fff;
+	padding-top: 300px;
+	padding-bottom: 300px;
+
+
+}
+#divinput{
+	margin-left: 400px;
+	background-color: white;
+	width: 600px;
+	line-height: 50px;
+	
+
+}
+button{
+	color: white;
+	font-size: 20px;
+	background-color:#11cbd7; 
+
+}
+
+#p1 {
+	
+	font-size: 30px;
+
+}
+
+h3{
+	color: #11cbd7;
+	font-size: 40px;
+}
+#section1{
+	margin-left:170px;
+	margin-bottom: 200px;
+}
+.div2{
+	width:25%;
+	
+	float: left;
+	padding-top: 100px;
+	padding-right: 100px;
+	margin-right: 50px;
+	font-size: 20px;
+	
+
+}
+#slid img{
+	width: 100px;
+	height: 100px;
+}
+article{
+	clear: both;
+}
+.div3{
+	float: left;
+	width: 18%;
+	margin-top: 50px;
+	margin-left: 70px;
+	
+	
+
+}
+article a{
+	text-decoration: none;
+	text-align: left;
+	color: #11cbd7;
+	padding-right:200px;}
+
+#section3{
+	clear: both;
+	margin-left: 200px;
+	
+
+}
+.div2{
+	float: left;
+	margin-left: 100px;
+	width: 25%;
+}
+
+#j{
+	width: 25%;
+	float: right;
+	margin-right: 150px;
+	margin-top: 50px;
+}
+#div4{
+	padding-top: 100px;
+	text-align: center;
+	clear: both;
+}
+#divinput{
+    
+	background: #fff;
+	
+	
+	height:50px;
+}
+.divcourse{
+	width: 25%;
+	
+	margin-top: 100px;
+	padding: 20px;
+	float: left;
+	border: 2px solid #fff;
+
+	margin-right: 20px;
+
+}
+
+.pcourse{
+	float: left;
+	color:  #11cbd7;
+}
+.price{
+	float: right;
+	background: #11cbd7;
+	color: #fff;
+}
+#section4{
+	margin-left: 100px;
+
+}
+#section5{
+	clear: both;
+	margin-top: 200px;
+	margin-left: 150px;
+	text-align: center;
+
+
+}
+
+#divteach{
+	margin-left: 250px;
+}
+
+#section6{
+	clear: both;
+	
+	
+
+}
+.div4{
+	text-align: center;
+
+}
+.pic{
+	float: left;
+	margin-left:200px;
+}
+
+.pic2{
+	height: 700px;
+}
+#section7{
+	clear: both;	
+	background-color: #11cbd7;
+	
+
+}
+#cor1{
+	float: left;
+	margin-left: 200px;
+	
+}
+#cor2{
+	float: right;
+	margin-right: 200px;
+	
+
+}
+
+footer{
+	clear: both;
+	margin: 200px;
+	width: 900;
+}
+.footer{
+	clear: both;
+	float:left;
+	margin-left: 30px;
+	font-weight: 4px;
+	font-size: 15px;
+	
+}
+
+
+
